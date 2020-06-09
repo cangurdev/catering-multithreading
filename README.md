@@ -13,3 +13,14 @@ Every guest must eat and drink from all types of food and drink at least once.
 A guest can eat max 5 boreks and drink 5 glasses of drink, but can eat only 2 slices of cake.
 
 This will last until all food and drink is consumed. 
+## Setup
+
+Get the code by either cloning this repository using git
+```
+git clone https://github.com/cvngur/catering-multithreading
+```
+or [downloading source code](https://github.com/cvngur/catering-multithreading/archive/master.zip) code as a zip archive.
+Once downloaded, open the terminal in the project directory, and run code with:
+```
+dotnet run
+```
